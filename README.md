@@ -1,0 +1,2 @@
+# slater-mini
+Slater Mini
